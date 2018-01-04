@@ -5,5 +5,6 @@ public class localrepo {
 	{
   System.out.println("hii");
 		//remote
+		//local
 }
 }
